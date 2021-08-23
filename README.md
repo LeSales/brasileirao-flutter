@@ -1,6 +1,6 @@
-# pokedex
+# Brasileirão
 
-A new Flutter project.
+App listando times do brasileirão
 
 ## Getting Started
 
