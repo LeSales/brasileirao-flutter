@@ -1,7 +1,6 @@
-# Criptomoedas
+# Brasileirão
 
-App listando preço de criptomoedas
-
+App listando alguns times do brasileirão
 ## Getting Started
 
 This project is a starting point for a Flutter application.
