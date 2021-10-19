@@ -1,6 +1,6 @@
-# Brasileirão
+# Criptomoedas
 
-App listando times do brasileirão
+App listando preço de criptomoedas
 
 ## Getting Started
 
